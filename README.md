@@ -1,2 +1,2 @@
-# misc-docs
+# Misc-Docs
 Miscellaneous documentation for projects.
