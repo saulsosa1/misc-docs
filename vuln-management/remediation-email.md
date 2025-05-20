@@ -7,7 +7,7 @@ Based on our initial vulnerability scan and assessment, we have created a set of
 ### Vulnerabilities and Remediations:
 1. [**Third-Party Software Removal (Wireshark)**](https://github.com/saulsosa1/cybersecurity-scripts/blob/main/scripts/remove-wireshark.ps1)
 2. [**Windows OS Secure Configuration (Insecure Protocols)**](https://github.com/saulsosa1/cybersecurity-scripts/blob/main/scripts/toggle-protocols.ps1)
-3. [**Windows OS Secure Configuration (Insecure Ciphersuites)**](https://github.com/joshmadakor1/lognpacific-public/blob/main/automation/toggle-cipher-suites.ps1)
+3. [**Windows OS Secure Configuration (Insecure Ciphersuites)**](https://github.com/saulsosa1/cybersecurity-scripts/blob/main/scripts/toggle-cipher-suites.ps1)
 4. [**Windows OS Secure Configuration (Guest Account Group Membership)**](https://github.com/joshmadakor1/lognpacific-public/blob/main/automation/toggle-guest-local-administrators.ps1)
 
 Let me know if you have any questions or need any adjustments!
